@@ -1,0 +1,25 @@
+# Build / generated files
+build/
+obj_dir/
+*.o
+*.a
+*.so
+
+# Simulation outputs
+*.vcd
+*.fst
+*.log
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary files
+tmp/
+temp/
+
+# Python cache (if used later)
+__pycache__/
+*.pyc
